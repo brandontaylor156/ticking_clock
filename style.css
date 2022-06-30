@@ -30,20 +30,17 @@
     background-color: red;
     height: 130px;
     width: 2px;
-    transform: rotate(90deg);
   }
       
   #hour {
     background-color: black;
     height: 100px;
     width: 8px;
-    transform: rotate(45deg);
   }
       
   #minutes {
     background-color: grey;
     height: 120px;
     width: 4px;
-    transform: rotate(180deg);
   }
   
